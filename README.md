@@ -25,6 +25,9 @@ This is a Streaming App that allows you Create, Read, Update and Delete your Str
 
 ----------------------------------------------------------------------------------------------------------------------------
 
+## Screenshots
+![image](/Screenshots/Screenshot134.png)
+
 **Lastly, You can use OBS to live stream on this app. You can configure OBS settings to match the URL of your Node Media Server and use the Stream ID as your key**
 
 **Feel free to message me if you are having difficulties setting up the App or using it**
