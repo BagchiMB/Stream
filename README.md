@@ -1,4 +1,4 @@
-This is a Streaming App that allows you Create, Read, Update and Delete your Stream and has multiple APIs integrated. The API services used are gapi (Google OAuth), RTMP server(Node Media Server) and json-server for data. Other front-end libraries used are lodash, semantic UI and flv.js
+This is a Streaming App that allows you Create, Read, Update and Delete your Stream and has multiple APIs integrated. The API services used are gapi (Google OAuth), RTMP server(Node Media Server) and json-server for data. Other front-end libraries used are semantic UI and flv.js
 
 **In order to run this App on your local server you will need to install/configure json-server and node media server.**
 
@@ -25,7 +25,7 @@ This is a Streaming App that allows you Create, Read, Update and Delete your Str
 
 ----------------------------------------------------------------------------------------------------------------------------
 
-## Screenshots
+## Screenshot
 ![image](/Screenshots/Screenshot134.png)
 
 **Lastly, You can use OBS to live stream on this app. You can configure OBS settings to match the URL of your Node Media Server and use the Stream ID as your key**
